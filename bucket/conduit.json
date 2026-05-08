@@ -1,0 +1,15 @@
+{
+    "version": "1.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Icehunter/conduit/releases/download/v1.4.1/conduit_windows_amd64.zip",
+            "bin": [
+                "conduit.exe"
+            ],
+            "hash": "462fc554c57ec20205bc4352ec8538903da542ec799e12b55ba000c1029e9fb0"
+        }
+    },
+    "homepage": "https://github.com/Icehunter/conduit",
+    "license": "MIT OR Apache-2.0",
+    "description": "Local-first, provider-aware terminal agent (Claude Code wire-compatible)."
+}
