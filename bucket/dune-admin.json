@@ -1,0 +1,15 @@
+{
+    "version": "0.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Icehunter/dune-admin/releases/download/v0.7.0/dune-admin_windows_amd64.zip",
+            "bin": [
+                "dune-admin.exe"
+            ],
+            "hash": "8f46e9d47a357b9f8c9ab58b187a8f34a7d5752faae512e14c24d03e79d02b43"
+        }
+    },
+    "homepage": "https://github.com/Icehunter/dune-admin",
+    "license": "MIT",
+    "description": "Local-first, provider-aware terminal agent (Claude Code wire-compatible)."
+}
