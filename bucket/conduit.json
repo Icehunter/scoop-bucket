@@ -1,12 +1,12 @@
 {
-    "version": "1.19.1",
+    "version": "1.19.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Icehunter/conduit/releases/download/v1.19.1/conduit_windows_amd64.zip",
+            "url": "https://github.com/Icehunter/conduit/releases/download/v1.19.2/conduit_windows_amd64.zip",
             "bin": [
                 "conduit.exe"
             ],
-            "hash": "0e228ae6096350905abfc50289a64993f03601c01612518d26339dfc172e8812"
+            "hash": "fdf29c28cd1382b2f43e7de427844bfefd1373de096fc9ef592aaacf9eba950f"
         }
     },
     "homepage": "https://github.com/Icehunter/conduit",
