@@ -1,12 +1,12 @@
 {
-    "version": "0.37.2",
+    "version": "0.37.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Icehunter/dune-admin/releases/download/v0.37.2/dune-admin_windows_amd64.zip",
+            "url": "https://github.com/Icehunter/dune-admin/releases/download/v0.37.3/dune-admin_windows_amd64.zip",
             "bin": [
                 "dune-admin.exe"
             ],
-            "hash": "f1d95af1a532efd708b8c5c5b5b62ec32347eadb2dd72ae418041bcf3308bcb3"
+            "hash": "924b040de67782a31b44fead0faac68af66639ce23c330133e73bbdfe83066fb"
         }
     },
     "homepage": "https://github.com/Icehunter/dune-admin",
